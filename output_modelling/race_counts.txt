@@ -1,0 +1,1985 @@
+Frequencies for Race: Autre
+Sexe
+F    70
+M    65
+Age
+2a10        80
+Moinsde1    27
+1a2         21
+Plusde10     7
+Logement
+MI     40
+ML     39
+AAB    38
+ASB    18
+Zone
+R     61
+U     39
+PU    35
+Ext
+0    67
+1    28
+2    27
+3    12
+4     1
+Obs
+2    77
+3    45
+1    11
+0     2
+Timide
+1    51
+2    29
+4    23
+3    20
+5    12
+Calme
+4    51
+5    32
+3    25
+2    24
+1     3
+Effrayé
+1    60
+2    28
+3    24
+4    16
+5     7
+Intelligent
+5    66
+4    57
+3     7
+2     3
+1     2
+Vigilant
+4    50
+5    46
+3    21
+2    13
+1     5
+Perséverant
+5    52
+4    41
+3    26
+2    15
+1     1
+Affectueux
+5    75
+4    37
+3    10
+2    10
+1     3
+Amical
+4    49
+5    45
+3    16
+2    15
+1    10
+Solitaire
+1    42
+2    40
+4    23
+3    22
+5     8
+Brutal
+1    83
+2    25
+3    18
+4     9
+Dominant
+1    46
+3    32
+4    22
+2    22
+5    13
+Agressif
+1    62
+3    33
+2    20
+4    16
+5     4
+Impulsif
+1    38
+2    36
+3    29
+4    23
+5     9
+Prévisible
+4    51
+3    31
+5    23
+2    15
+1    15
+Distrait
+4    41
+3    33
+2    22
+1    20
+5    19
+Abondance
+3      48
+2      42
+1      34
+NSP    11
+PredOiseau
+0    104
+1     21
+4      4
+2      4
+3      2
+PredMamm
+0    98
+1    13
+2    12
+4     7
+3     5Frequencies for Race: BEN
+Sexe
+M    123
+F    115
+Age
+2a10        106
+1a2          69
+Moinsde1     57
+Plusde10      6
+Logement
+AAB    76
+ML     66
+MI     64
+ASB    32
+Zone
+R     89
+U     87
+PU    62
+Ext
+0    113
+1     59
+2     53
+3     13
+Obs
+2    164
+3     58
+1     16
+Timide
+1    106
+2     60
+4     42
+3     23
+5      7
+Calme
+2    73
+4    54
+1    52
+3    46
+5    13
+Effrayé
+1    93
+3    66
+2    54
+4    17
+5     8
+Intelligent
+5    131
+4     82
+3     13
+2     10
+1      2
+Vigilant
+4    91
+5    84
+3    34
+2    21
+1     8
+Perséverant
+5    112
+4     89
+3     25
+1      6
+2      6
+Affectueux
+5    102
+4     78
+3     30
+2     21
+1      7
+Amical
+4    99
+5    51
+3    46
+2    29
+1    13
+Solitaire
+1    81
+2    67
+3    44
+4    36
+5    10
+Brutal
+1    87
+3    56
+2    54
+4    37
+5     4
+Dominant
+4    67
+3    61
+2    45
+1    40
+5    25
+Agressif
+1    79
+3    69
+2    47
+4    31
+5    12
+Impulsif
+4    74
+1    50
+3    45
+2    45
+5    24
+Prévisible
+4    109
+3     65
+2     29
+5     23
+1     12
+Distrait
+4    85
+3    55
+2    35
+5    33
+1    30
+Abondance
+2      80
+3      79
+1      60
+NSP    19
+PredOiseau
+0    209
+1     23
+2      3
+3      2
+4      1
+PredMamm
+0    196
+1     18
+2      9
+3      8
+4      7Frequencies for Race: BRI
+Sexe
+M    91
+F    75
+Age
+2a10        78
+1a2         41
+Moinsde1    40
+Plusde10     7
+Logement
+ML     53
+AAB    48
+MI     47
+ASB    18
+Zone
+U     68
+R     54
+PU    44
+Ext
+0    87
+1    46
+2    22
+3    10
+4     1
+Obs
+2    103
+3     42
+1     21
+Timide
+1    53
+4    49
+2    37
+3    20
+5     7
+Calme
+4    69
+5    52
+3    24
+2    18
+1     3
+Effrayé
+3    53
+1    45
+2    32
+4    29
+5     7
+Intelligent
+4    70
+5    64
+3    25
+1     4
+2     3
+Vigilant
+4    63
+5    54
+3    27
+2    16
+1     6
+Perséverant
+4    56
+5    53
+3    33
+2    17
+1     7
+Affectueux
+5    64
+4    59
+3    22
+2    18
+1     3
+Amical
+4    63
+2    31
+3    30
+5    29
+1    13
+Solitaire
+4    50
+2    46
+1    34
+3    29
+5     7
+Brutal
+1    106
+2     31
+3     17
+4      8
+5      4
+Dominant
+1    67
+3    37
+2    32
+4    20
+5    10
+Agressif
+1    72
+3    46
+2    28
+4    15
+5     5
+Impulsif
+1    76
+2    37
+3    28
+4    20
+5     5
+Prévisible
+4    74
+3    37
+5    23
+2    16
+1    16
+Distrait
+4    53
+3    41
+2    31
+1    26
+5    15
+Abondance
+3      55
+2      54
+1      40
+NSP    17
+PredOiseau
+0    145
+1     17
+4      2
+3      2
+PredMamm
+0    136
+1     19
+4      7
+2      3
+3      1Frequencies for Race: CHA
+Sexe
+M    19
+F    12
+Age
+2a10        19
+Plusde10     6
+Moinsde1     3
+1a2          3
+Logement
+MI     12
+ML      8
+AAB     6
+ASB     5
+Zone
+R     13
+U     11
+PU     7
+Ext
+2    11
+0    10
+1     6
+3     4
+Obs
+2    25
+3     4
+1     2
+Timide
+1    15
+4     5
+2     5
+3     4
+5     2
+Calme
+4    13
+5    10
+3     4
+2     3
+1     1
+Effrayé
+1    10
+2     8
+4     6
+3     5
+5     2
+Intelligent
+4    17
+5     9
+2     2
+3     2
+1     1
+Vigilant
+4    14
+5    11
+2     3
+3     2
+1     1
+Perséverant
+4    13
+5     8
+3     5
+2     4
+1     1
+Affectueux
+5    16
+4     9
+3     3
+2     2
+1     1
+Amical
+4    11
+5    10
+2     4
+1     3
+3     3
+Solitaire
+2    12
+4     8
+3     6
+1     4
+5     1
+Brutal
+1    17
+2     8
+3     4
+4     2
+Dominant
+4    11
+3     8
+2     6
+1     5
+5     1
+Agressif
+3    11
+1     8
+2     7
+4     4
+5     1
+Impulsif
+2    11
+3     8
+1     7
+4     5
+Prévisible
+4    17
+3     5
+2     5
+5     2
+1     2
+Distrait
+2    11
+4    10
+3     7
+1     3
+Abondance
+3      15
+2       7
+1       6
+NSP     3
+PredOiseau
+0    19
+1     5
+3     3
+4     2
+2     2
+PredMamm
+0    20
+4     4
+3     3
+1     2
+2     2Frequencies for Race: EUR
+Sexe
+M      521
+F      497
+NSP      2
+Age
+2a10        518
+Moinsde1    171
+Plusde10    171
+1a2         160
+Logement
+ML     333
+MI     329
+AAB    241
+ASB    117
+Zone
+R     410
+U     341
+PU    269
+Ext
+0    312
+2    311
+3    210
+1    167
+4     20
+Obs
+2    635
+3    265
+1    118
+0      2
+Timide
+1    283
+4    254
+2    193
+3    148
+5    142
+Calme
+4    375
+5    210
+2    180
+3    180
+1     75
+Effrayé
+1    274
+3    263
+2    212
+4    178
+5     93
+Intelligent
+5    418
+4    415
+3    118
+2     47
+1     22
+Vigilant
+4    403
+5    381
+3    139
+2     61
+1     36
+Perséverant
+4    362
+5    352
+3    192
+2     79
+1     35
+Affectueux
+5    478
+4    326
+3    122
+2     65
+1     29
+Amical
+4    312
+2    198
+5    186
+3    175
+1    149
+Solitaire
+4    276
+2    257
+3    213
+1    187
+5     87
+Brutal
+1    537
+2    191
+3    150
+4    102
+5     40
+Dominant
+1    302
+3    254
+4    195
+2    176
+5     93
+Agressif
+1    318
+3    296
+2    194
+4    134
+5     78
+Impulsif
+1    280
+3    244
+2    212
+4    210
+5     74
+Prévisible
+4    390
+3    260
+5    141
+2    128
+1    101
+Distrait
+3    292
+4    272
+2    180
+1    166
+5    110
+Abondance
+3      507
+2      240
+1      213
+NSP     60
+PredOiseau
+0    603
+1    217
+2    113
+3     60
+4     27
+PredMamm
+0    564
+1    166
+4    100
+2     98
+3     92Frequencies for Race: MCO
+Sexe
+M      126
+F       71
+NSP      1
+Age
+2a10        96
+1a2         56
+Moinsde1    39
+Plusde10     7
+Logement
+MI     77
+ML     65
+AAB    40
+ASB    16
+Zone
+R     79
+U     62
+PU    57
+Ext
+0    99
+2    54
+1    34
+3    10
+4     1
+Obs
+2    126
+3     61
+1     11
+Timide
+1    91
+4    44
+2    35
+3    22
+5     6
+Calme
+4    81
+2    40
+5    37
+3    26
+1    14
+Effrayé
+1    97
+2    49
+3    32
+4    16
+5     4
+Intelligent
+5    96
+4    71
+3    19
+2     9
+1     3
+Vigilant
+5    72
+4    70
+3    33
+2    15
+1     8
+Perséverant
+5    77
+4    70
+3    35
+2     9
+1     7
+Affectueux
+5    104
+4     53
+3     27
+2     11
+1      3
+Amical
+4    69
+5    54
+3    36
+2    28
+1    11
+Solitaire
+1    75
+2    52
+3    35
+4    29
+5     7
+Brutal
+1    102
+2     42
+3     31
+4     17
+5      6
+Dominant
+1    57
+2    43
+3    41
+4    38
+5    19
+Agressif
+1    105
+2     42
+3     32
+4     16
+5      3
+Impulsif
+1    75
+2    42
+3    39
+4    37
+5     5
+Prévisible
+4    76
+3    55
+2    30
+5    25
+1    12
+Distrait
+4    60
+3    54
+2    33
+5    29
+1    22
+Abondance
+3      75
+2      63
+1      43
+NSP    17
+PredOiseau
+0    163
+1     20
+2     10
+3      3
+4      2
+PredMamm
+0    153
+1     21
+2     11
+3      8
+4      5Frequencies for Race: NR
+Sexe
+M      250
+F      232
+NSP      1
+Age
+2a10        253
+Plusde10     81
+Moinsde1     75
+1a2          74
+Logement
+MI     159
+ML     152
+AAB    108
+ASB     64
+Zone
+R     196
+U     166
+PU    121
+Ext
+0    162
+2    155
+1     82
+3     76
+4      8
+Obs
+2    305
+3    110
+1     67
+0      1
+Timide
+1    141
+4    122
+2     97
+3     78
+5     45
+Calme
+4    188
+5     97
+3     91
+2     81
+1     26
+Effrayé
+1    150
+3    116
+2    103
+4     79
+5     35
+Intelligent
+4    202
+5    186
+3     53
+2     29
+1     13
+Vigilant
+4    183
+5    163
+3     73
+2     43
+1     21
+Perséverant
+4    159
+5    158
+3    104
+2     43
+1     19
+Affectueux
+5    243
+4    141
+3     50
+2     35
+1     14
+Amical
+4    140
+5    101
+2     97
+3     83
+1     62
+Solitaire
+2    131
+4    114
+3    103
+1     94
+5     41
+Brutal
+1    241
+2    106
+3     74
+4     52
+5     10
+Dominant
+1    158
+4    107
+3     97
+2     79
+5     42
+Agressif
+3    146
+1    139
+2     90
+4     73
+5     35
+Impulsif
+1    140
+3    107
+2    102
+4     96
+5     38
+Prévisible
+4    195
+3    111
+2     72
+5     63
+1     42
+Distrait
+3    135
+4    124
+2    100
+5     64
+1     60
+Abondance
+3      240
+2      111
+1       99
+NSP     33
+PredOiseau
+0    301
+1    102
+2     43
+3     27
+4     10
+PredMamm
+0    274
+1     78
+4     46
+2     46
+3     39Frequencies for Race: NSP
+Sexe
+M      49
+F      29
+NSP     1
+Age
+2a10        40
+1a2         16
+Moinsde1    14
+Plusde10     9
+Logement
+ML     29
+MI     26
+AAB    16
+ASB     8
+Zone
+R     31
+PU    26
+U     22
+Ext
+0    29
+2    25
+3    15
+1     9
+4     1
+Obs
+2    46
+3    18
+1    15
+Timide
+1    23
+4    20
+2    18
+3    12
+5     6
+Calme
+4    29
+3    18
+2    14
+5    11
+1     7
+Effrayé
+3    24
+1    23
+2    16
+4    10
+5     6
+Intelligent
+4    36
+5    21
+3    19
+2     2
+1     1
+Vigilant
+4    33
+5    22
+3    11
+2    10
+1     3
+Perséverant
+4    27
+3    24
+5    21
+2     5
+1     2
+Affectueux
+5    31
+4    28
+3    14
+2     3
+1     3
+Amical
+4    27
+2    16
+5    15
+3    11
+1    10
+Solitaire
+3    21
+2    19
+4    19
+1    14
+5     6
+Brutal
+1    39
+2    16
+3    14
+4     8
+5     2
+Dominant
+2    22
+1    20
+3    17
+4    13
+5     7
+Agressif
+1    26
+3    25
+2    12
+4    10
+5     6
+Impulsif
+1    24
+3    19
+4    18
+2    13
+5     5
+Prévisible
+4    31
+3    25
+2    13
+5     5
+1     5
+Distrait
+3    25
+4    24
+2    15
+5     8
+1     7
+Abondance
+3      41
+2      21
+1      16
+NSP     1
+PredOiseau
+0    47
+1    16
+2     9
+3     5
+4     2
+PredMamm
+0    38
+1    15
+3    13
+2     9
+4     4Frequencies for Race: ORI
+Sexe
+M    30
+F    28
+Age
+2a10        27
+Plusde10    13
+1a2         10
+Moinsde1     8
+Logement
+ML     20
+AAB    18
+MI     14
+ASB     6
+Zone
+U     28
+R     17
+PU    13
+Ext
+2    23
+0    19
+1     9
+3     6
+4     1
+Obs
+2    39
+3    12
+1     6
+0     1
+Timide
+1    19
+4    12
+3     9
+5     9
+2     9
+Calme
+4    26
+2    17
+5     7
+3     5
+1     3
+Effrayé
+1    15
+2    14
+3    13
+4    10
+5     6
+Intelligent
+5    30
+4    18
+3     7
+2     3
+Vigilant
+4    22
+5    22
+3     9
+2     5
+Perséverant
+4    22
+3    18
+5    13
+2     4
+1     1
+Affectueux
+5    22
+4    20
+2     8
+3     7
+1     1
+Amical
+5    16
+4    13
+3    12
+2    10
+1     7
+Solitaire
+2    16
+4    12
+1    12
+5    10
+3     8
+Brutal
+1    37
+3    14
+2     5
+4     2
+Dominant
+1    17
+3    14
+2    11
+4     8
+5     8
+Agressif
+1    22
+3    12
+4    11
+2     8
+5     5
+Impulsif
+3    18
+1    16
+4    13
+2     9
+5     2
+Prévisible
+3    22
+4    22
+5     7
+1     5
+2     2
+Distrait
+3    18
+2    14
+4    13
+1     8
+5     5
+Abondance
+3      21
+2      21
+1      11
+NSP     5
+PredOiseau
+0    39
+1    14
+3     3
+2     2
+PredMamm
+0    40
+1     9
+4     4
+2     3
+3     2Frequencies for Race: PER
+Sexe
+M    108
+F     84
+Age
+2a10        98
+1a2         42
+Moinsde1    30
+Plusde10    22
+Logement
+MI     66
+ML     64
+AAB    46
+ASB    16
+Zone
+R     74
+U     66
+PU    52
+Ext
+0    105
+1     49
+2     29
+3      9
+Obs
+2    139
+3     36
+1     16
+0      1
+Timide
+1    52
+4    50
+2    46
+3    29
+5    15
+Calme
+4    76
+5    69
+2    23
+3    20
+1     4
+Effrayé
+3    59
+2    49
+1    48
+4    22
+5    14
+Intelligent
+4    81
+5    77
+3    22
+2     9
+1     3
+Vigilant
+4    83
+5    51
+3    32
+2    21
+1     5
+Perséverant
+4    69
+5    45
+3    39
+2    26
+1    13
+Affectueux
+5    95
+4    60
+3    18
+2    13
+1     6
+Amical
+4    69
+5    41
+3    35
+2    25
+1    22
+Solitaire
+2    48
+4    43
+1    43
+3    41
+5    17
+Brutal
+1    134
+2     36
+3     13
+4      5
+5      4
+Dominant
+1    87
+3    40
+2    31
+4    21
+5    13
+Agressif
+1    86
+3    48
+2    35
+4    15
+5     8
+Impulsif
+1    93
+2    39
+3    37
+4    17
+5     6
+Prévisible
+4    72
+3    46
+5    30
+1    23
+2    21
+Distrait
+4    61
+3    55
+2    29
+1    27
+5    20
+Abondance
+3      66
+2      62
+1      46
+NSP    18
+PredOiseau
+0    170
+1     17
+4      3
+3      1
+2      1
+PredMamm
+0    163
+1     19
+3      4
+2      3
+4      3Frequencies for Race: RAG
+Sexe
+F      110
+M      106
+NSP      1
+Age
+2a10        98
+Moinsde1    65
+1a2         48
+Plusde10     6
+Logement
+MI     63
+ML     62
+AAB    62
+ASB    30
+Zone
+U     94
+R     75
+PU    48
+Ext
+0    127
+1     56
+2     34
+Obs
+2    131
+3     63
+1     23
+Timide
+1    99
+2    46
+3    31
+4    29
+5    12
+Calme
+4    90
+5    77
+3    28
+2    18
+1     4
+Effrayé
+3    75
+1    67
+2    41
+4    26
+5     8
+Intelligent
+4    92
+5    76
+3    35
+2    10
+1     4
+Vigilant
+4    77
+5    43
+2    41
+3    35
+1    21
+Perséverant
+4    81
+3    50
+5    44
+2    29
+1    13
+Affectueux
+5    104
+4     68
+3     27
+2     12
+1      6
+Amical
+4    79
+5    77
+3    30
+2    22
+1     9
+Solitaire
+1    98
+2    57
+3    29
+4    27
+5     6
+Brutal
+1    168
+2     31
+3     14
+5      2
+4      2
+Dominant
+1    94
+2    44
+3    44
+4    27
+5     8
+Agressif
+1    106
+3     66
+2     29
+4     12
+5      4
+Impulsif
+1    97
+2    53
+3    33
+4    28
+5     6
+Prévisible
+4    105
+3     47
+5     37
+2     17
+1     11
+Distrait
+3    71
+4    67
+2    32
+5    31
+1    16
+Abondance
+1      77
+3      58
+2      55
+NSP    27
+PredOiseau
+0    205
+1     11
+2      1
+PredMamm
+0    196
+1     13
+2      4
+3      4Frequencies for Race: SAV
+Sexe
+M    16
+F    10
+Age
+2a10        14
+1a2          6
+Moinsde1     6
+Logement
+AAB    10
+MI      8
+ML      7
+ASB     1
+Zone
+R     12
+U      9
+PU     5
+Ext
+0    14
+2     6
+1     5
+3     1
+Obs
+2    17
+3     8
+1     1
+Timide
+3    7
+2    6
+4    6
+1    6
+5    1
+Calme
+1    9
+3    6
+2    6
+4    3
+5    2
+Effrayé
+1    14
+3     9
+2     1
+4     1
+5     1
+Intelligent
+5    14
+4    10
+3     1
+1     1
+Vigilant
+5    11
+4     8
+3     5
+2     1
+1     1
+Perséverant
+4    11
+5     7
+3     4
+2     3
+1     1
+Affectueux
+4    11
+5    11
+3     2
+2     1
+1     1
+Amical
+3    7
+1    6
+4    5
+5    4
+2    4
+Solitaire
+2    9
+1    8
+4    6
+3    3
+Brutal
+4    8
+1    8
+2    8
+3    2
+Dominant
+2    7
+3    7
+4    5
+5    5
+1    2
+Agressif
+3    9
+2    7
+1    5
+5    3
+4    2
+Impulsif
+3    7
+4    6
+2    6
+1    5
+5    2
+Prévisible
+4    10
+1     7
+3     5
+2     3
+5     1
+Distrait
+4    9
+3    7
+2    6
+1    4
+Abondance
+3      12
+2       8
+1       5
+NSP     1
+PredOiseau
+0    20
+1     5
+3     1
+PredMamm
+0    22
+1     3
+2     1Frequencies for Race: SBI
+Sexe
+F    99
+M    93
+Age
+2a10        97
+Moinsde1    46
+1a2         39
+Plusde10    10
+Logement
+MI     67
+ML     59
+AAB    48
+ASB    18
+Zone
+R     81
+U     57
+PU    54
+Ext
+0    99
+1    55
+2    33
+3     5
+Obs
+2    113
+3     66
+1     12
+0      1
+Timide
+1    79
+2    45
+4    37
+3    25
+5     6
+Calme
+4    85
+5    44
+3    29
+2    25
+1     9
+Effrayé
+1    56
+2    55
+3    52
+4    20
+5     9
+Intelligent
+5    83
+4    77
+3    23
+2     6
+1     3
+Vigilant
+4    82
+5    46
+3    37
+2    18
+1     9
+Perséverant
+4    74
+5    61
+3    44
+2     9
+1     4
+Affectueux
+5    95
+4    69
+3    15
+2    11
+1     2
+Amical
+4    74
+5    57
+3    29
+2    24
+1     8
+Solitaire
+1    65
+2    58
+3    31
+4    30
+5     8
+Brutal
+1    123
+2     35
+3     19
+4     12
+5      3
+Dominant
+1    68
+3    39
+2    37
+4    36
+5    12
+Agressif
+1    86
+3    44
+2    36
+4    23
+5     3
+Impulsif
+1    67
+3    51
+2    48
+4    23
+5     3
+Prévisible
+4    76
+3    54
+5    33
+2    16
+1    13
+Distrait
+3    63
+4    48
+2    33
+1    25
+5    23
+Abondance
+3      73
+2      60
+1      40
+NSP    19
+PredOiseau
+0    159
+1     21
+2      5
+3      4
+4      3
+PredMamm
+0    155
+1     20
+4      7
+2      5
+3      5Frequencies for Race: SPH
+Sexe
+M    38
+F    38
+Age
+1a2         27
+2a10        26
+Moinsde1    19
+Plusde10     4
+Logement
+ML     22
+MI     21
+AAB    20
+ASB    13
+Zone
+U     32
+R     27
+PU    17
+Ext
+0    56
+1    14
+2     5
+4     1
+Obs
+2    44
+3    31
+1     1
+Timide
+1    52
+2    16
+3     5
+4     2
+5     1
+Calme
+3    22
+2    18
+4    16
+5    12
+1     8
+Effrayé
+1    42
+3    20
+2     8
+4     5
+5     1
+Intelligent
+5    42
+4    26
+3     4
+2     3
+1     1
+Vigilant
+5    25
+4    23
+3    17
+2     7
+1     4
+Perséverant
+5    31
+4    27
+3    10
+2     4
+1     4
+Affectueux
+5    45
+4    24
+3     3
+1     2
+2     2
+Amical
+5    40
+4    29
+3     3
+1     3
+2     1
+Solitaire
+1    49
+2    11
+3    10
+5     4
+4     2
+Brutal
+1    45
+2    12
+3     8
+4     7
+5     4
+Dominant
+1    29
+3    22
+4    10
+2    10
+5     5
+Agressif
+1    42
+3    19
+2     9
+4     4
+5     2
+Impulsif
+1    31
+3    16
+2    15
+4     9
+5     5
+Prévisible
+4    35
+3    14
+5    11
+1    10
+2     6
+Distrait
+3    24
+4    23
+1    11
+2    10
+5     8
+Abondance
+3      33
+1      19
+2      17
+NSP     7
+PredOiseau
+0    72
+1     2
+2     1
+3     1
+PredMamm
+0    75
+1     1Frequencies for Race: TUV
+Sexe
+F    14
+M    14
+Age
+2a10        9
+Plusde10    7
+Moinsde1    7
+1a2         5
+Logement
+ML     9
+ASB    7
+AAB    7
+MI     5
+Zone
+U     17
+PU     6
+R      5
+Ext
+0    12
+2     8
+1     5
+3     3
+Obs
+2    16
+3     8
+1     3
+0     1
+Timide
+1    10
+4     7
+2     5
+3     4
+5     2
+Calme
+4    16
+5     4
+3     4
+2     2
+1     2
+Effrayé
+1    9
+2    8
+4    4
+5    4
+3    3
+Intelligent
+5    14
+4     9
+1     3
+3     2
+Vigilant
+5    13
+4    10
+1     3
+3     2
+Perséverant
+4    13
+5    10
+2     2
+1     2
+3     1
+Affectueux
+5    15
+4     9
+3     2
+1     2
+Amical
+4    9
+5    7
+3    6
+1    5
+2    1
+Solitaire
+3    9
+1    7
+2    6
+4    5
+5    1
+Brutal
+1    18
+2     4
+5     2
+4     2
+3     2
+Dominant
+1    8
+4    7
+3    7
+2    5
+5    1
+Agressif
+1    9
+3    9
+2    6
+5    2
+4    2
+Impulsif
+1    9
+2    6
+3    6
+4    6
+5    1
+Prévisible
+4    12
+3     8
+5     4
+1     3
+2     1
+Distrait
+3    10
+2     7
+1     5
+4     4
+5     2
+Abondance
+3      12
+2      10
+1       4
+NSP     2
+PredOiseau
+0    18
+1     5
+2     2
+3     2
+4     1
+PredMamm
+0    17
+1     7
+2     2
+4     2

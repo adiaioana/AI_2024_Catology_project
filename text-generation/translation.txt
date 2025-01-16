@@ -1,0 +1,3 @@
+Sexe,Age,Race,Nombre,Logement,Zone,Ext,Obs,Timide,Calme,Intelligent,Vigilant,Affectueux,Amical,Solitaire,Brutal,Dominant,Agressif,Impulsif,Distrait,Abondance,PredOiseau,PredMamm
+Sex,Age,Race,Number,Housing,Area,Ext,Obs,Shy,Calm,Intelligent,Vigilant,Affectionate,Friendly,Lonely,Brutal,Dominant,Aggressive,Impulsive,Distracted,Abundance, PredBird,PredMamm
+Shy,Calm,Scared,Intelligent,Vigilant,Perseverant,Affectionate,Friendly,Lonely,Brutal,Dominant,Aggressive,Impulsive,Predictable,Distracted

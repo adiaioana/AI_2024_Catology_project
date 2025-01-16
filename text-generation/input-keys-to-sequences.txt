@@ -1,0 +1,66 @@
+Sexe
+which is <...>
+, a <...>,
+/
+Abondance
+around an area of <!...> number of natural areas
+in an area of <!...> number of natural areas
+scattered around <...> regions
+found within <...> regions
+estimated in <...> areas
+spread across <...> natural zones
+confined to <...> specific zones
+represented by <...> individuals in natural zones
+observed in <...> habitats
+/
+Logement
+stays at <!...>
+in a household like <!...>
+wihtin a household including <!...>
+within <!...>
+resides in <...>
+accommodated in <...>
+located within <...>
+present in a household with <...>
+living in a household that includes <...>
+/
+Zone
+which is placed in <!...> area
+is in <!...> area
+in <!...> area
+belongs to the <...> area
+located in the <...> zone
+situated in <...>
+/
+Ext
+that spends a <?...> time outdoors
+that spends a <?...> time out
+that spends a <?...> time outside
+which stays a <?...> time outdoors
+which stays a <?...> time out
+which stays a <?...> time outside
+stays a <?...> ammount of time out
+stays a <?...> ammount of time outdoors
+stays a <?...> ammount of time outside
+remains <?...> outdoors
+stays an estimated <?...> time out
+estimated to spend <?...> time outside
+typically spends <?...> outdoors
+occupies <?...> duration outside
+/
+Obs
+stays a <?...> time with the owner
+spends a <?...> time with the owner
+/
+PredOiseau
+it captures birds <...>
+it catches birds <...>
+it gets birds <...>
+it captures birds <...>
+it captures birds <...>
+it should capture birds <...>
+it does capture birds <...>
+PredMamm
+and mammals only <...>
+and like <...> for mammals
+and about <...> for mammals
